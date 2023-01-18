@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'samplePodDemo2'
-  s.version          = '1.0.1'
+  s.version          = '1.0.3'
   s.summary          = 'this will add done button'
 
 # This description is used to generate tags and improve search results.
